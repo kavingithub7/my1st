@@ -199,7 +199,8 @@ body{
 }
 .but{
     border: 1px solid black;
-    margin-left:250px;
+    marg
+    in-left:250px;
     text-align: center;
     background-color: brown;}
    
@@ -280,6 +281,9 @@ body{
     .im1:hover,.im2:hover,.im3:hover,.im4:hover,.im5:hover{ 
      opacity: 0.4;
     }
+        
+       }
+
     /* .im1:hover,.im2:hover,.im3:hover,.im4:hover,.im5:hover{
         background-color: rgb(44, 44, 54,0.9);
  */
